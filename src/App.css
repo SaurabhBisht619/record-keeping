@@ -1,0 +1,9 @@
+.heading, .field{
+  display: flex;
+  gap: 50px;
+}
+
+
+.field{
+  gap:100px
+}
